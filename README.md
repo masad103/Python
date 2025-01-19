@@ -1,4 +1,4 @@
-What is Python, and why is Python important?
+What is Python, and why Python is important?
 
 Python is a high-level, versatile, and easy-to-learn programming language known for its simplicity and readability. It is widely used for web development, data analysis, artificial intelligence, machine learning, scientific computing, automation, and more.
 
